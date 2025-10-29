@@ -1,13 +1,6 @@
 **_A social networking application with django and react._**
 A fully functioning social media application that allows users to post content, view content like and comment on content, follow and unfollow users. Also supports dark and light theme modes.
 
-## Demo
-
-
-https://user-images.githubusercontent.com/95624629/206938826-7436f618-ea9b-4918-99e2-df208dde58e5.mp4
-
-
-
 ## Tools 
 - Python
 - Django and Django rest framework
@@ -18,7 +11,6 @@ https://user-images.githubusercontent.com/95624629/206938826-7436f618-ea9b-4918-
 - Material ui and Material ui icons
 
 ## Setting up locally
-- Clone the project to your local computer using git via command `git clone https://github.com/ogayanfe/birdie.git`. You can simply download the zip folder and unzip if you don't have git installed.
 - `cd` into the application folder using your terminal.
 -  `cd` into the backend direcory via the command `cd backend`.
 - You can create and activate a virtual environment here.
